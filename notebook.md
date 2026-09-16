@@ -1,4 +1,32 @@
 ## Table of Contents
+
+- [Blocks](#blocks)
+
+
+Hat Block: 	Start a stack of blocks and are shaped to attach blocks below them.
+
+Stack / Command Block: Perform main commands. They are shaped to attach above or below other stack blocks.
+
+C-Block:	Loop the block(s) within them or check if a condition is true or false. They are shaped to attach stack blocks above, below, or inside them.
+
+Reporter / Oval Block:	Report values in the form of numbers and fits inside any blocks with oval inputs for other blocks.
+
+Boolean / Hexagonal Block: 	Return a condition as either true or false and fits inside any blocks with hexagonal (six-sided) inputs for other blocks.
+
+Repeat Block: Repeat block repeats your action how many times you want.
+
+Wait Until Block:	This block waits to do its action until it gets the command to do its action.
+
+If Then Block:	Waits for a command from a block to do its action.
+
+Forever Block:	Keeps repeating your action you gave it forever.
+
+
+
+
+- [Concepts](#concepts)
+- [Vocabulary](#vocabulary)
+
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
 
   - [Headings](#headings)
