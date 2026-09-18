@@ -25,6 +25,29 @@ Forever Block:	Keeps repeating your action you gave it forever.
 
 
 - [Concepts](#concepts)
+
+Sequence You run commands in a specfic step by step order.
+
+Parameters They can change a commands imput to be different from the orginal command.
+
+Loops / Iteration	This is used to repeat the intrusctions given by a command.
+
+Sensors This is what the robot uses to get information about it's surroundings.
+
+Booleans & Conditions	These blocks are true or false.
+
+Sense → Think → Act	How a robot senses information, makes a decision, and responds
+
+Comparisons	How < and > compare values and produce TRUE/FALSE
+
+Coordinates	How X and Y values describe the robot's location
+
+Conditionals	How programs make decisions using conditions
+
+Patterns	How recognizing repeated behavior can help create better algorithms
+
+
+
 - [Vocabulary](#vocabulary)
 
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
