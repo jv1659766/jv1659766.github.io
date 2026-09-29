@@ -2,7 +2,7 @@
 
 ## Projects
 
-- Project 1: 
+[VEX VR](vex-vr.md) this is used to command your robot to folllow code.
 
 - Project 2: 
 
