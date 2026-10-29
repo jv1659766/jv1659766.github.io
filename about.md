@@ -6,6 +6,6 @@ I like to play games, sleep and and currently i have a goal of making a game wit
 
 ## Navigation
 
-[Notebook](notebook.mdLinks to an external site.)
+[Notebook](notebook.md)
 
 [Home](index.md)
