@@ -7,11 +7,11 @@
 - Project 2: 
 
 ## About Me
-Click here to learn more → [About Me](#AboutMe)
+Click here to learn more → [About Me](#AboutMe.md)
 
 ## Notebook
 
-Click here to go to my notebook → [Notebook](#Notebook)
+Click here to go to my notebook → [Notebook](#Notebook.md)
 
 ## Engineering Notebook
-Click here to go to my Engineering Notebook [Engineering-Notebook](#Engineering-Notebook)
+Click here to go to my Engineering Notebook [Engineering-Notebook](#Engineering-Notebook.md)
