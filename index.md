@@ -7,9 +7,8 @@
 - Project 2: 
 
 ## About Me
-
-Click here to learn more → [About Me]
+Click here to learn more → [About Me](#AboutMe)
 
 ## Notebook
 
-Click here to go to my notebook → [Notebook]
+Click here to go to my notebook → [Notebook](#Notebook)
