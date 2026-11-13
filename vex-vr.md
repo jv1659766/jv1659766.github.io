@@ -52,7 +52,9 @@ How to have the robot change direction.
 Use sensors to make it to the end.
 
 ### My solution
-<img width="1360" height="583" alt="image" src="https://github.com/user-attachments/assets/887ce4f8-ce11-4006-9e0b-e96a63c1d2e2" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9bf3a36c-1509-4012-83a6-15380692f49a" />
 
+###
+How to use wall distance sensors to navigate the maze.
 
 
