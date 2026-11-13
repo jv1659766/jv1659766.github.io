@@ -1,6 +1,7 @@
 # VEX VR
 
 This page documents my work and learning throughout the VEX VR Computer Science course.
+Click here to go [Home](index.md)
 
 ----------------------------------------------------------------------
 
