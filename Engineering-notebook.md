@@ -66,3 +66,29 @@ The links didn't work sometimes and was difficult to fix.
 
 ### 5. What did you learn, and what comes next?
 I learned how to fix the links to different pages and worked and improved the website.
+
+
+
+## day 4
+
+- Date: 11/13/2026
+
+Cardboard measurement length: 12.64 mm
+
+Cardboard measurement width: 13 mm
+
+Robot measurement length: 23 mm
+
+Robot measurement width: 23 mm
+
+Length scale: 1:23
+
+Width scale: 1:23 
+
+Smallest width of the model racetrack: 23.69 mm
+Apply scale: smallest width X scale =  544.87 mm
+
+Convert to cm = 54.487
+
+Reflection: what I learned today
+I learned about scale and how to accuactly scale designs on paper.
