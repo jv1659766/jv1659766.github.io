@@ -4,7 +4,7 @@ This page documents my work and learning throughout the VEX VR Computer Science 
 
 ----------------------------------------------------------------------
 
-## Challenge: Basketball drills with polyester spiderman.
+## Challenge: Basketball drills
 ### Goal
 To make the robot move back and forth with repeat comm
 
@@ -24,7 +24,7 @@ The basic foward and reverse commands.
 
 ### Goal
 
-complete the maze.
+complete the maze while getting to all the disk.
 ### My Solution
 <img width="1919" height="854" alt="Screenshot 2026-09-18 105051" src="https://github.com/user-attachments/assets/4099f1a0-4f7e-4d47-83cb-f984171ab818" />
 
@@ -33,6 +33,26 @@ How to use color sensors to navigate the maze.
 
 ---------------------------------------------------------------------------
 
+## Challenge: Castle crashers
+
+### Goal
+Knock over the castles
+
+### My solution 
+<img width="1360" height="583" alt="image" src="https://github.com/user-attachments/assets/a243a43d-e037-40a9-9ac4-94c36c1eaff5" />
+
+### What I learned.
+How to have the robot change direction.
+
+---------------------------------------------------------------------------
+
+## Challenge: The Wall maze
+
+### Goal
+Use sensors to make it to the end.
+
+### My solution
+<img width="1360" height="583" alt="image" src="https://github.com/user-attachments/assets/887ce4f8-ce11-4006-9e0b-e96a63c1d2e2" />
 
 
 
